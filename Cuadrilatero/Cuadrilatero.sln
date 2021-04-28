@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cuadrilatero", "Cuadrilatero\Cuadrilatero.csproj", "{B271AC5C-3570-481B-A68B-BF21C69B221F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B271AC5C-3570-481B-A68B-BF21C69B221F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B271AC5C-3570-481B-A68B-BF21C69B221F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B271AC5C-3570-481B-A68B-BF21C69B221F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B271AC5C-3570-481B-A68B-BF21C69B221F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FFD00EC-5175-40C0-8FBB-406C48969BBA}
+	EndGlobalSection
+EndGlobal

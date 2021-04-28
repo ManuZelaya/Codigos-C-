@@ -1,0 +1,16 @@
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\bin\Debug\netcoreapp3.1\Cuadrilatero.exe
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\bin\Debug\netcoreapp3.1\Cuadrilatero.deps.json
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\bin\Debug\netcoreapp3.1\Cuadrilatero.runtimeconfig.json
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\bin\Debug\netcoreapp3.1\Cuadrilatero.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\bin\Debug\netcoreapp3.1\Cuadrilatero.dll
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\bin\Debug\netcoreapp3.1\Cuadrilatero.pdb
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\obj\Debug\netcoreapp3.1\Cuadrilatero.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\obj\Debug\netcoreapp3.1\Cuadrilatero.Form1.resources
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\obj\Debug\netcoreapp3.1\Cuadrilatero.Properties.Resources.resources
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\obj\Debug\netcoreapp3.1\Cuadrilatero.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\obj\Debug\netcoreapp3.1\Cuadrilatero.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\obj\Debug\netcoreapp3.1\Cuadrilatero.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\obj\Debug\netcoreapp3.1\Cuadrilatero.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\obj\Debug\netcoreapp3.1\Cuadrilatero.dll
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\obj\Debug\netcoreapp3.1\Cuadrilatero.pdb
+C:\Users\kevin\source\repos\Cuadrilatero\Cuadrilatero\obj\Debug\netcoreapp3.1\Cuadrilatero.genruntimeconfig.cache
